@@ -26,7 +26,7 @@ A Portuguese bank runs phone marketing campaigns to sell term deposits. Calling 
 
 <>
 
-Streamlit app: <>
+Streamlit app: https://bank-marketing-ml-shishir.streamlit.app/
 
 ## d. Models used
 
