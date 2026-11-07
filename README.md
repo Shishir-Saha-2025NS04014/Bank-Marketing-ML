@@ -24,7 +24,7 @@ A Portuguese bank runs phone marketing campaigns to sell term deposits. Calling 
 
 ## c. GitHub repository link
 
-<>
+https://github.com/Shishir-Saha-2025NS04014/Bank-Marketing-ML.git
 
 Streamlit app: https://bank-marketing-ml-shishir.streamlit.app/
 
